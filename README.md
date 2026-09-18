@@ -29,10 +29,3 @@ Team Performance: Analysis of win/loss ratios, performance consistency, and home
 Player Statistics: Evaluation of top-performing batsmen and bowlers, strike rates, and economy rates.
 
 Match Outcomes: Examination of factors influencing match results, such as toss decisions and batting order.
-
-📊 Sample Visualizations
-
-Figure 1: Top 10 Batsmen by Total Runs Scored
-
-
-Figure 2: Win Ratios of IPL Teams Over Seasons
