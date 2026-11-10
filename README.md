@@ -102,3 +102,9 @@ Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 **Rakshitha Bai V**
 
 GitHub: [rakshithav2004](https://github.com/rakshithav2004)
+
+# 🙌 Thank You
+
+**Thank you for visiting this project!**
+I hope you found it useful and informative. 😊
+
