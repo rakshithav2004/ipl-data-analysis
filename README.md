@@ -1,3 +1,4 @@
+
 # 🏏 IPL Data Analysis Dashboard
 
 An interactive **Streamlit** dashboard for exploring **Indian Premier League (IPL)** match and ball-by-ball data (2008–2024). It covers team performance, player statistics, toss decisions, venues, and scoring patterns across phases of an innings.
